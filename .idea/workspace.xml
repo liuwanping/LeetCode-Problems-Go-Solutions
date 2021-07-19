@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0658dda2-4b01-4769-8f52-638f9a426aa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2_add_two_numbers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_longest_substring_without_repeating_characters.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_median_of_two_sorted_arrays.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_longest_palindromic_substring.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two_sum.go" beforeDir="false" afterPath="$PROJECT_DIR$/1_two_sum.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1uqTFCGi1BjxsjItsMUJ49TORKM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/leetcode-problems-go-solutions">
+    <configuration name="go build github.com/LeetCode-Problems-Go-Solutions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Problems-Go-Solutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/LeetCode-Problems-Go-Solutions" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/leetcode-problems-go-solutions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode-Problems-Go-Solutions" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/leetcode-problems-go-solutions" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/leetcode-problems-go-solutions" />
+        <item itemvalue="Go Build.go build github.com/LeetCode-Problems-Go-Solutions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1626677666860">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666860" />
+    <state width="1750" height="157" key="GridCell.Tab.0.bottom/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134806" />
+    <state width="1878" height="282" key="GridCell.Tab.0.bottom/-88.-1057.1920.1057/0.23.1792.1033@-88.-1057.1920.1057" timestamp="1625392284015" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center" timestamp="1626677666859">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.center/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666859" />
+    <state width="1750" height="157" key="GridCell.Tab.0.center/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134806" />
+    <state width="1878" height="282" key="GridCell.Tab.0.center/-88.-1057.1920.1057/0.23.1792.1033@-88.-1057.1920.1057" timestamp="1625392284014" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left" timestamp="1626677666859">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.left/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666859" />
+    <state width="1750" height="157" key="GridCell.Tab.0.left/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134805" />
+    <state width="1878" height="282" key="GridCell.Tab.0.left/-88.-1057.1920.1057/0.23.1792.1033@-88.-1057.1920.1057" timestamp="1625392284013" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right" timestamp="1626677666860">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.right/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666860" />
+    <state width="1750" height="157" key="GridCell.Tab.0.right/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134806" />
+    <state width="1878" height="282" key="GridCell.Tab.0.right/-88.-1057.1920.1057/0.23.1792.1033@-88.-1057.1920.1057" timestamp="1625392284014" />
+    <state width="1878" height="277" key="GridCell.Tab.1.bottom" timestamp="1626677666861">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.1.bottom/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666861" />
+    <state width="1750" height="157" key="GridCell.Tab.1.bottom/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134807" />
+    <state width="1878" height="277" key="GridCell.Tab.1.center" timestamp="1626677666860">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.1.center/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666860" />
+    <state width="1750" height="157" key="GridCell.Tab.1.center/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134807" />
+    <state width="1878" height="277" key="GridCell.Tab.1.left" timestamp="1626677666860">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.1.left/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666860" />
+    <state width="1750" height="157" key="GridCell.Tab.1.left/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134807" />
+    <state width="1878" height="277" key="GridCell.Tab.1.right" timestamp="1626677666861">
+      <screen x="-88" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.1.right/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1626677666861" />
+    <state width="1750" height="157" key="GridCell.Tab.1.right/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626585134807" />
+    <state width="896" height="515" key="XDebugger.FullValuePopup" timestamp="1626152787468">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state width="896" height="515" key="XDebugger.FullValuePopup/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626152787468" />
+    <state x="583" y="252" width="670" height="660" key="search.everywhere.popup" timestamp="1626579698188">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="537" y="-822" width="670" height="676" key="search.everywhere.popup/-88.-1057.1920.1057/0.23.1792.1031@-88.-1057.1920.1057" timestamp="1625481291757" />
+    <state x="583" y="252" width="670" height="660" key="search.everywhere.popup/-88.-1057.1920.1057/0.23.1792.1031@0.23.1792.1031" timestamp="1626579698188" />
+  </component>
+</project>
